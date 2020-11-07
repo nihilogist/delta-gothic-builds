@@ -1,5 +1,13 @@
 # Delta Gothic Builds
 
+## Build 0.02
+
+Release notes:
+- Added Auspex station with longer range view
+- At longer ranges, contacts appear as blips before resolving to icons
+- Updates macrocannons to fire three shots and require reloading
+- Updates ships to have two broadside macrocannon batteries instead of single forward-facing cannon.
+
 ## Build 0.01
 
 Release notes:
