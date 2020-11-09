@@ -1,5 +1,14 @@
 # Delta Gothic Builds
 
+## Build 0.03
+
+Release notes:
+- Scanner station now gets information about the range, bearing and speed of the selected ship
+- Helm station gets information about the heading and speed of the ship
+- Helm controls are much slower to respond
+- Weapon batteries are now turreted broadsides and can be fired individually
+- Up to 12 players can connect to a server
+
 ## Build 0.02
 
 Release notes:
