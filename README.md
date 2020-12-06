@@ -1,5 +1,17 @@
 # Delta Gothic Builds
 
+## Build 0.04
+
+Release notes:
+- Added a GamesMaster screen with controls to create ships and issue simple orders
+- Added a Captain screen that shows a 3D view of the battlemap
+- All contacts now have a text label on them
+- Helm screen gets dedicated throttle level buttons
+- Simple Attack Run AI implemented
+- Ships can now have shields which can be raised and lowered at the weapons station
+Bug fixes:
+- Auspex contacts are more consistently displayed
+
 ## Build 0.03
 
 Release notes:
