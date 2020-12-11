@@ -1,5 +1,10 @@
 # Delta Gothic Builds
 
+## Build 0.04.1
+
+Release notes:
+- Fixed multiple network issues.
+
 ## Build 0.04
 
 Release notes:
