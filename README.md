@@ -1,5 +1,24 @@
 # Delta Gothic Builds
 
+## Build 0.06.0: Flight Command Upgrade
+
+*NEW STATION* Flight Command
+- Capital ships can start a scenario with a group of docked fighters
+- Flight Command station can assign fighters to launch tubes and launch them
+- Fighters get a dynamically updated background view while docked
+
+Release notes:
+- Rescale all elements as a 1:1 scale
+- Updates multiple systems to take account of 1:1 scale
+- Updates sensor screen contacts to switch colour depending on faction
+- Updates sensor screen contacts to correctly scale with sensor zoom
+- Adds a first person turret view to captial ship turret stations
+
+## Build 0.05.x: Starfighter Upgrades
+
+Release notes:
+- Adds a first person view for starfighter combat and multiple 3d model upgrades.
+
 ## Build 0.04.1
 
 Release notes:
