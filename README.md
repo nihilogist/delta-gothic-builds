@@ -1,5 +1,13 @@
 # Delta Gothic Builds
 
+## Build 0.07.0: 
+
+- Multiple bug fixes around camera positions
+- Divides turret batteries into individual firing positions
+- Reskins radier
+- Adds particle effects to shells and impacts
+- Adds multiselect to the GM screen
+
 ## Build 0.06.0: Flight Command Upgrade
 
 *NEW STATION* Flight Command
