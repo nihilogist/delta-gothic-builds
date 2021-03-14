@@ -1,5 +1,9 @@
 # Delta Gothic Builds
 
+## Build 0.07.1:
+
+- Added mesh for mining ship
+
 ## Build 0.07.0: 
 
 - Multiple bug fixes around camera positions
